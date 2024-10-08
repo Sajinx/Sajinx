@@ -1,5 +1,6 @@
-## Hi there, I'm Alexander
-
+<div id="header" align="center">
+<H1>Hi there, I'm Alexander</H1>
+</div>
 <!--
 **Sajinx/Sajinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
